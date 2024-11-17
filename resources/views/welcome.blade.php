@@ -21,7 +21,7 @@
     </head>
     <body class="font-sans antialiased dark:bg-black dark:text-white/50">
    <div>
-    <h1>My first laravel hosted app</h1>
+    <h1>My first laravel hosted app testing and modifying</h1>
    </div>
     </body>
 </html>
